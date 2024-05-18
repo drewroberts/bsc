@@ -19,16 +19,16 @@ The [first chapter](https://github.com/drewroberts/bsc/blob/main/chapters/1.md) 
 
 [Chapter 9](https://github.com/drewroberts/bsc/blob/main/chapters/9.md) covers the alternative approach of ordinals & ethscriptions.
 
-[Chapter 10](https://github.com/drewroberts/bsc/blob/main/chapters/10.md) will dive into vesting tokens and other compensation contract structures like splitters & buy/sell bots, etc.
+[Chapter 10](https://github.com/drewroberts/bsc/blob/main/chapters/x10.md) will dive into vesting tokens and other compensation contract structures like splitters & buy/sell bots, etc.
 
-[Chapter 11](https://github.com/drewroberts/bsc/blob/main/chapters/11.md) could be mev bots (arbitrage), sniper bots, and sandwich bots plus other automation solutions.
+[Chapter 11](https://github.com/drewroberts/bsc/blob/main/chapters/x11.md) could be mev bots (arbitrage), sniper bots, and sandwich bots plus other automation solutions.
 
-[Chapter 12](https://github.com/drewroberts/bsc/blob/main/chapters/12.md) would pull back the hood of decentralized exchanges & the bonding curves and other concepts that make those smart contracts possible especially with Uniswap V3 NFT model for liquidity pools.
+[Chapter 12](https://github.com/drewroberts/bsc/blob/main/chapters/x12.md) would pull back the hood of decentralized exchanges & the bonding curves and other concepts that make those smart contracts possible especially with Uniswap V3 NFT model for liquidity pools.
 
-[Chapter 13](https://github.com/drewroberts/bsc/blob/main/chapters/13.md) would cover contract standards & ERC and EIP procedures for approval by the foundation.
+[Chapter 13](https://github.com/drewroberts/bsc/blob/main/chapters/x13.md) would cover contract standards & ERC and EIP procedures for approval by the foundation.
 
-[Chapter 14](https://github.com/drewroberts/bsc/blob/main/chapters/14.md) needs to cover wallet drainers along with malicious functions to look out for in smart contracts.
+[Chapter 14](https://github.com/drewroberts/bsc/blob/main/chapters/x14.md) needs to cover wallet drainers along with malicious functions to look out for in smart contracts.
 
-[Chapter 15](https://github.com/drewroberts/bsc/blob/main/chapters/15.md) would cover where things are heading and some of the token bound accounts & other things on the horizon.
+[Chapter 15](https://github.com/drewroberts/bsc/blob/main/chapters/x15.md) would cover where things are heading and some of the token bound accounts & other things on the horizon.
 
-[Chapter 16](https://github.com/drewroberts/bsc/blob/main/chapters/16.md) would discuss the intersection of AI and blockchain and the experimentation & potential of that as it relates to smart contracts.
+[Chapter 16](https://github.com/drewroberts/bsc/blob/main/chapters/x16.md) would discuss the intersection of AI and blockchain and the experimentation & potential of that as it relates to smart contracts.
