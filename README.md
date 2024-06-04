@@ -1,5 +1,5 @@
 # Blockchain Smart Contracts
-by DrewRoberts.eth & BrielleDurrant.eth
+by DrewRoberts.eth & BrielleCash.eth
 
 The [first chapter](https://github.com/drewroberts/bsc/blob/main/chapters/1.md) will simply be What are Smart Contracts? and will cover basic information about them & the benefits over traditional contracts.
 
